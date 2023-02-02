@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/minggichae/react-for-beginners/static/js/main.c74745b4.js",
-    "index.html": "/minggichae/react-for-beginners/index.html",
-    "main.c74745b4.js.map": "/minggichae/react-for-beginners/static/js/main.c74745b4.js.map"
+    "main.js": "/react-for-beginners/static/js/main.94e1817d.js",
+    "index.html": "/react-for-beginners/index.html",
+    "main.94e1817d.js.map": "/react-for-beginners/static/js/main.94e1817d.js.map"
   },
   "entrypoints": [
-    "static/js/main.c74745b4.js"
+    "static/js/main.94e1817d.js"
   ]
 }
